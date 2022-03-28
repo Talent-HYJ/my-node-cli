@@ -1,22 +1,17 @@
-#### my-node-cli
+#### create-app-cli
 
-  ##### 通过cli命令的形式快速创建所需项目 
- 
-### 目录结构
-
+### Install
 ```bash
-├── README.md
-├── bin
-│   └── index.js # 入口文件
-├── build
-├── lib
-│   └── create.js # 创建文件
-├── package.json
-├── webpack.config.js # 打包配置
-└── yarn.lock
+npm i create-app-cli -g
+# or
+yarn global add create-app-cli
 ```
+ ### Quick Start
+  ```bash
+  create-app project-name
+  ```
 
-### 命令
 
-- `npm run build`: 构建
+
+
 
