@@ -8,7 +8,7 @@ yarn global add create-app-cli
 ```
  ### Quick Start
   ```bash
-  create-app project-name
+  create-app create project-name
   ```
 
 
